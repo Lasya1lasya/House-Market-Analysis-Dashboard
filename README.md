@@ -30,10 +30,6 @@ Average Property Duration: Most houses are occupied by residents for 2–16 year
 
 Average Difference: Offered vs Purchase Price: There is a measurable gap between offered prices and final purchase prices, providing insights into negotiation trends in the market.
 
-Optional GitHub Enhancements
-
-Add screenshots of each visualization in an /Images/ folder and referen
-
 
 ## Tools & Technologies
 
