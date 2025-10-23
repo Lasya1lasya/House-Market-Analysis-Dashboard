@@ -35,6 +35,8 @@ Average Difference: Offered vs Purchase Price: There is a measurable gap between
 
 Power BI Desktop – for visualization
 
+Power BI Service - Publish The Dashboards
+
 Google BigQuery – cloud data source
 
 SQL – data extraction and transformation
