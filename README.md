@@ -50,3 +50,8 @@ Connected Power BI directly to BigQuery for large-scale cloud data analysis
 Interactive dashboards with slicers, filters, and KPIs
 
 Insights include pricing trends, location-wise house distribution, and market segmentation
+
+
+
+<img width="1218" height="962" alt="Screenshot 2025-10-23 141600" src="https://github.com/user-attachments/assets/729e30c4-cdaa-40f7-8432-ade9fddab611" />
+
