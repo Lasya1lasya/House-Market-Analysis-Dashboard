@@ -3,6 +3,15 @@
 
 This project analyzes housing market data to provide insights on trends, pricing, and location-based patterns using Power BI connected to Google BigQuery.
 
+
+<img width="1920" height="964" alt="Screenshot 2025-10-23 141411 - Copy" src="https://github.com/user-attachments/assets/e06240e3-e358-4343-9d3b-66fac649b630" />
+<img width="1920" height="974" alt="Screenshot 2025-10-23 141524 - Copy" src="https://github.com/user-attachments/assets/4781777a-6d41-47cc-a916-23b8f21394bf" />
+
+<img width="1176" height="623" alt="Screenshot 2025-10-23 141538" src="https://github.com/user-attachments/assets/6a6202cd-cb0d-472a-94e7-bf13dfc16e24" />
+
+<img width="1218" height="962" alt="Screenshot 2025-10-23 141600" src="https://github.com/user-attachments/assets/3630fa11-2a3c-43d3-b9b0-1e5a55087f40" />
+
+
 ## Key Insights / KPIs – House Market Analysis Dashboard
 
 | KPI / Metric                     | Description / Insight |
@@ -52,11 +61,5 @@ Interactive dashboards with slicers, filters, and KPIs
 Insights include pricing trends, location-wise house distribution, and market segmentation
 
 
-<img width="1920" height="964" alt="Screenshot 2025-10-23 141411 - Copy" src="https://github.com/user-attachments/assets/e06240e3-e358-4343-9d3b-66fac649b630" />
-<img width="1920" height="974" alt="Screenshot 2025-10-23 141524 - Copy" src="https://github.com/user-attachments/assets/4781777a-6d41-47cc-a916-23b8f21394bf" />
-
-<img width="1176" height="623" alt="Screenshot 2025-10-23 141538" src="https://github.com/user-attachments/assets/6a6202cd-cb0d-472a-94e7-bf13dfc16e24" />
-
-<img width="1218" height="962" alt="Screenshot 2025-10-23 141600" src="https://github.com/user-attachments/assets/3630fa11-2a3c-43d3-b9b0-1e5a55087f40" />
 
 
